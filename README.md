@@ -1,4 +1,4 @@
-# Orkhan Javadli - MIT | AI | Marketing | Deep Learning | Agentic Systems
+# Orkhan Javadli - MIT | AI | Marketing | Agentic Systems
 
 Hi, I'm **Orkhan Javadli**, working at the intersection of **MIT**, **AI**, **marketing**, **deep learning**, and **agentic systems**.
 
