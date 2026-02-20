@@ -1,22 +1,10 @@
-# Orkhan Javadli
+# Orkhan Javadli - MIT | AI | Marketing | Agentic Systems
 
-Official GitHub profile of **Orkhan Javadli** (`ojavadli`).
+Hi, I'm **Orkhan Javadli**, working at the intersection of **MIT**, **AI**, **marketing**, **deep learning**, and **agentic systems**.
 
-I am co-founder at **hAIp (StartX)** and build multi-agent AI systems focused on evaluation-to-improvement loops, marketing intelligence, and production AI workflows.
+- 🎓 Background: MIT | 10 years of CRM building | AI, marketing, deep learning, experimentation  
+- 🔍 Focus: AI & agentic systems for marketing, growth, and influencer analytics  
+- 📂 Projects on this GitHub: agentic systems, marketing analytics, and ML applications  
+- 📫 Contact: [ojavadli@gmail.com](mailto:ojavadli@gmail.com) · [LinkedIn – Orkhan Javadli](https://www.linkedin.com/in/ojavadli)
 
-## Focus Areas
-- Multi-agent AI architectures
-- Target -> Evaluate -> Improve loops
-- Marketing intelligence and virality prediction
-- Agent evaluation, reliability, and performance optimization
-
-## Selected Repositories
-- [tei-loop](https://github.com/ojavadli/tei-loop)
-- [MarketingIntel](https://github.com/ojavadli/MarketingIntel)
-- [Trend-boosting-platform](https://github.com/ojavadli/Trend-boosting-platform)
-
-## Links
-- LinkedIn: https://www.linkedin.com/in/ojavadli
-- Email: ojavadli@gmail.com
-
-If you searched for **GitHub Orkhan Javadli**, you are in the right place.
+This is the official GitHub profile of **Orkhan Javadli**.
