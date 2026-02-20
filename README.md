@@ -12,8 +12,8 @@ I am co-founder at **hAIp (StartX)** and build multi-agent AI systems focused on
 
 ## Selected Repositories
 - [tei-loop](https://github.com/ojavadli/tei-loop)
-- [ABtesting](https://github.com/ojavadli/ABtesting)
 - [MarketingIntel](https://github.com/ojavadli/MarketingIntel)
+- [Trend-boosting-platform](https://github.com/ojavadli/Trend-boosting-platform)
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/ojavadli
